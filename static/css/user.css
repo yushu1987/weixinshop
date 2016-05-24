@@ -1,0 +1,51 @@
+.main{
+    margin:1px;
+} 
+.sw-user-info-box{
+    border: 1px solid #f1f1f1;
+    padding: 5px 10px 5px 5px;
+	font-family:"微软雅黑";
+	margin-bottom:5px;
+}
+.sw-user-info{
+	font-size:13px;
+	margin-top:5px;
+}
+.sw-user-ctrl{
+}
+.sw-user-question{
+    border: 1px solid #f1f1f1;
+    padding: 0px 10px 10px 5px;
+	font-family:"微软雅黑";
+	margin-bottom:5px;
+}
+.content{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.f-pipe{
+    margin-left:5px;
+    margin-right:5px;
+}
+.rinfo{
+    padding: 0px 10px 10px 5px;
+    border: 1px solid #f1f1f1;
+    margin-top:5px;
+	font-family:"微软雅黑";
+	font-size:15px;
+}
+.crtime{
+    font-size:12px;
+    color:green;
+}
+.sw-uip{
+    font-size:12px;
+    color:#999;
+	margin-right:5px;
+}
+.f-12 {
+	font-size: 12px;
+}
+.f-15 {
+	font-size: 15px;
+}
